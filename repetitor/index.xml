@@ -1,0 +1,13 @@
+<content>
+
+	<element type="catalog">
+		<description>Русский каталог</description>
+		<path>https://github.com/TalonsSoft/talonssoft.github.io/repetitor/russian/index.xml</path>
+	</element>
+	
+	<element type="file">
+		<description>Русский каталог</description>
+		<path></path>
+	</element>
+
+</content>
