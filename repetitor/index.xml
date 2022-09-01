@@ -8,4 +8,12 @@
 		<path>russian/index.xml</path>
 	</element>
 	
+
+	<element type="catalog">
+		<description>English resources</description>
+		<name>english</name>
+		<parent>repetitor</parent>
+		<path>english/index.xml</path>
+	</element>
+	
 </content>
