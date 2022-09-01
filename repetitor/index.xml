@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <content>
-
+	
 	<element type="catalog">
 		<description>Русские ресурсы</description>
+		<name>russian</name>
+		<parent>repetitor</parent>
 		<path>russian/index.xml</path>
 	</element>
 	
