@@ -3,13 +3,7 @@
 
 	<element type="catalog">
 		<description>Русские ресурсы</description>
-		<dir>russian</dir>
-		<path>https://github.com/TalonsSoft/talonssoft.github.io/repetitor/russian/index.xml</path>
+		<path>russian/index.xml</path>
 	</element>
 	
-	<element type="file">
-		<description>Помощь</description>
-		<path>https://github.com/TalonsSoft/talonssoft.github.io/repetitor/russian/help.xml</path>
-	</element>
-
 </content>
