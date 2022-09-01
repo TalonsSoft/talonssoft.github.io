@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<content>
+  
+	<element type="file">
+		<description>Помощь</description>
+		<path>russian/help.xml</path>
+	</element>
+
+</content>
