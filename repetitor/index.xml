@@ -16,4 +16,11 @@
 		<path>english/index.xml</path>
 	</element>
 	
+	<element type="catalog">
+		<description>Deutsche Quellen</description>
+		<name>german</name>
+		<parent>repetitor</parent>
+		<path>german/index.xml</path>
+	</element>
+	
 </content>
