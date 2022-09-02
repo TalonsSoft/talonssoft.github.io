@@ -23,4 +23,12 @@
 		<path>german/index.xml</path>
 	</element>
 	
+	<element type="catalog">
+		<description>Recursos en Español</description>
+		<name>spanish</name>
+		<parent>repetitor</parent>
+		<path>spanish/index.xml</path>
+	</element>
+	
+	
 </content>
