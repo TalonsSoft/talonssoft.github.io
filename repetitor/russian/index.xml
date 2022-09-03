@@ -7,5 +7,12 @@
 		<path>russian/help.xml</path>
 		<parent>russian/index.xml</parent>	
 	</element>
+	
+	<element type="file">
+		<description>Еда</description>
+		<name>food</name>
+		<path>russian/food.xml</path>
+		<parent>russian/index.xml</parent>	
+	</element>
 
 </content>
