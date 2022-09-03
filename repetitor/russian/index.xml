@@ -3,6 +3,7 @@
   
 	<element type="file">
 		<description>Помощь</description>
+		<name>help</name>
 		<path>russian/help.xml</path>
 		<parent>russian</parent>	
 	</element>
