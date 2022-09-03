@@ -4,7 +4,7 @@
 	<element type="catalog">
 		<description>Русские ресурсы</description>
 		<name>russian</name>
-		<parent>repetitor</parent>
+		<parent>index.xml</parent>
 		<path>russian/index.xml</path>
 	</element>
 	
@@ -12,21 +12,21 @@
 	<element type="catalog">
 		<description>English resources</description>
 		<name>english</name>
-		<parent>repetitor</parent>
+		<parent>index.xml</parent>
 		<path>english/index.xml</path>
 	</element>
 	
 	<element type="catalog">
 		<description>Deutsche Quellen</description>
 		<name>german</name>
-		<parent>repetitor</parent>
+		<parent>index.xml</parent>
 		<path>german/index.xml</path>
 	</element>
 	
 	<element type="catalog">
 		<description>Recursos en Español</description>
 		<name>spanish</name>
-		<parent>repetitor</parent>
+		<parent>index.xml</parent>
 		<path>spanish/index.xml</path>
 	</element>
 	
@@ -34,14 +34,14 @@
 		<description>Помощь</description>
 		<name>help</name>
 		<path>russian/help.xml</path>
-		<parent>russian</parent>	
+		<parent>index.xml</parent>	
 	</element>
 	
 	<element type="file">
 		<description>Помощь1</description>
 		<name>help</name>
 		<path>russian/help.xml</path>
-		<parent>russian</parent>	
+		<parent>index.xml</parent>	
 	</element>
 	
 	
@@ -49,7 +49,7 @@
 		<description>Помощь2</description>
 		<name>help</name>
 		<path>russian/help.xml</path>
-		<parent>russian</parent>	
+		<parent>index.xml</parent>	
 	</element>
 	
 	
