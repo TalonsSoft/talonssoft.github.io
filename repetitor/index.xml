@@ -37,5 +37,12 @@
 		<parent>russian</parent>	
 	</element>
 	
+	<element>
+		<description></description>
+		<name></name>
+		<path></path>
+		<parent>russian</parent>	
+	</element>
+	
 	
 </content>
