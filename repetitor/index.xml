@@ -37,12 +37,13 @@
 		<parent>russian</parent>	
 	</element>
 	
-	<element>
-		<description></description>
-		<name></name>
-		<path></path>
+	<element type="file">
+		<description>Помощь1</description>
+		<name>help</name>
+		<path>russian/help.xml</path>
 		<parent>russian</parent>	
 	</element>
+	
 	
 	<element type="file">
 		<description>Помощь2</description>
