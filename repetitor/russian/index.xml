@@ -5,7 +5,7 @@
 		<description>Помощь</description>
 		<name>help</name>
 		<path>russian/help.xml</path>
-		<parent>russian</parent>	
+		<parent>russian/index.xml</parent>	
 	</element>
 
 </content>
