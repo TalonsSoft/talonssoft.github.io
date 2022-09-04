@@ -14,5 +14,12 @@
 		<path>russian/food.xml</path>
 		<parent>russian/index.xml</parent>	
 	</element>
+	
+	<element type="catalog">
+		<description>Английский язык</description>
+		<name>english_language</name>
+		<parent>russian/index.xml</parent>
+		<path>russian/russian_language/index.xml</path>
+	</element>
 
 </content>
