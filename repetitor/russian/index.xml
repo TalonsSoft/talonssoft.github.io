@@ -19,7 +19,7 @@
 		<description>Английский язык</description>
 		<name>english_language</name>
 		<parent>russian/index.xml</parent>
-		<path>russian/russian_language/index.xml</path>
+		<path>russian/english_language/index.xml</path>
 	</element>
 
 </content>
