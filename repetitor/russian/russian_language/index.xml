@@ -1,1 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+  
+	<element type="file">
+		<description>Английские слова на каждый день</description>
+		<name>everyday</name>
+		<path>russian/english_language/eng_words_everyday.xml</path>
+		<parent>russian/index.xml</parent>	
+	</element>
 
+</content>
