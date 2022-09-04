@@ -7,5 +7,13 @@
 		<path>russian/english_language/eng_words_everyday.xml</path>
 		<parent>russian/english_language/index.xml</parent>	
 	</element>
+	
+	<element type="file">
+		<description>Английские слова на каждый день</description>
+		<name>everyday</name>
+		<path>russian/english_language/eng_words_everyday.xml</path>
+		<parent>russian/english_language/index.xml</parent>	
+	</element>
 
+	
 </content>
