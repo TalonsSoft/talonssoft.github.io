@@ -37,20 +37,4 @@
 		<parent>index.xml</parent>	
 	</element>
 	
-	<element type="file">
-		<description>Помощь1</description>
-		<name>help</name>
-		<path>russian/help.xml</path>
-		<parent>index.xml</parent>	
-	</element>
-	
-	
-	<element type="file">
-		<description>Помощь2</description>
-		<name>help</name>
-		<path>russian/help.xml</path>
-		<parent>index.xml</parent>	
-	</element>
-	
-	
 </content>
