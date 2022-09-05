@@ -27,21 +27,35 @@
 	
 	<track>
 		<lang1>Awesome, thanks!</lang1>
-		<trans></trans>
+		<trans>|ˈɔːsəm|θæŋks|</trans>
 		<lang2>Потрясающе, спасибо!</lang2>
 	</track>
 	
 	<track>
 		<lang1>I've got to go.</lang1>
-		<trans></trans>
+		<trans>|aɪv|gɒt|tuː|gəʊ|</trans>
 		<lang2>Я должен идти.</lang2>
 	</track>
 	
 	<track>
 		<lang1>See you around.</lang1>
-		<trans></trans>
+		<trans>|siː|juː|əˈraʊnd|</trans>
 		<lang2>Как-нибудь увидимся.</lang2>
 	</track>
+	
+	<track>
+		<lang1>Keep in touch.</lang1>
+		<trans>|kiːp|ɪn|tʌʧ|</trans>
+		<lang2>Будь на связи.</lang2>
+	</track>
+	
+	<track>
+		<lang1>It was nice to see you.</lang1>
+		<trans>|ɪt|wɒz|naɪs|tuː|siː|juː|</trans>
+		<lang2>Было приятно видеть тебя.</lang2>
+	</track>
+	
+	
 	
 	
   
