@@ -18,5 +18,31 @@
 		<trans>|ɡʊd|ˈiːvnɪŋ|</trans>
 		<lang2>Добрый вечер</lang2>
 	</track>
+	
+	<track>
+		<lang1>What’s up!</lang1>
+		<trans>|wɒts|ʌp|</trans>
+		<lang2>Как дела?</lang2>
+	</track>
+	
+	<track>
+		<lang1>Awesome, thanks!</lang1>
+		<trans></trans>
+		<lang2>Потрясающе, спасибо!</lang2>
+	</track>
+	
+	<track>
+		<lang1>I've got to go.</lang1>
+		<trans></trans>
+		<lang2>Я должен идти.</lang2>
+	</track>
+	
+	<track>
+		<lang1>See you around.</lang1>
+		<trans></trans>
+		<lang2>Как-нибудь увидимся.</lang2>
+	</track>
+	
+	
   
   </playlist>
