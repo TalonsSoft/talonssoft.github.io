@@ -6,5 +6,34 @@
 		<lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
 		<trans></trans>
 		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
-	</track><track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1><trans></trans><lang2>progressBar.setVisibility(View.INVISIBLE);</lang2></track><track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1><trans></trans><lang2>progressBar.setVisibility(View.INVISIBLE);</lang2></track><track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1><trans></trans><lang2>progressBar.setVisibility(View.INVISIBLE);</lang2></track><track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1><trans></trans><lang2>progressBar.setVisibility(View.INVISIBLE);</lang2></track><track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1><trans></trans><lang2>progressBar.setVisibility(View.INVISIBLE);</lang2></track><track><lang1>For</lang1><trans>|fɔːr|</trans><lang2>для, на, за, в, к, в течение, от, ради, из-за, вместо, ибо, ввиду того, что</lang2></track>
+	</track>
+	<track>
+		<lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
+		<trans></trans>
+		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
+	</track>
+	<track>
+		<lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
+		<trans></trans>
+		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
+	</track>
+	<track>
+		<lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
+		<trans></trans>
+		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
+	</track>
+	<track>
+		<lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
+		<trans></trans>
+		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
+	</track>
+	<track><lang1>progressBar.setVisibility(View.INVISIBLE);</lang1>
+		<trans></trans>
+		<lang2>progressBar.setVisibility(View.INVISIBLE);</lang2>
+	</track>
+	<track>
+		<lang1>For</lang1>
+		<trans>|fɔːr|</trans>
+		<lang2>для, на, за, в, к, в течение, от, ради, из-за, вместо, ибо, ввиду того, что</lang2>
+	</track>
 </playlist>
